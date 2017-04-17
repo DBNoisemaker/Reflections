@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+creates a blank git repository for tracking commits.
+
+git add: adds files to staging area
+
+
+

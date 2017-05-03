@@ -3,3 +3,5 @@ When would you want to use a remote repository rather than keeping all your work
 
 
 FORKING: Cloning a repository from Github to Github
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
